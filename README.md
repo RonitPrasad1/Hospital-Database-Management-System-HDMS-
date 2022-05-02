@@ -25,4 +25,4 @@ if I need to change something I wouldn't necessarily drop the whole table, I can
 the TABLE and change whatever need be.
 
 This project follows proper Database programming principles, so if you wish to have a great understanding of how to properly 
-program Oracle SQL, to check out how I did each of my files while also doing your research.
+program Oracle SQL, check out how I did each of my files while also doing your own personal research.
