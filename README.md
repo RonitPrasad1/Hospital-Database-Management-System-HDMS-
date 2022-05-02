@@ -20,7 +20,9 @@ This Hospital Database is done the right way compared to others you'll see becau
 given constraints for INSERT/DELETE/UPDATE, I'm organized with my files, I understand how to be mindful of naming conventions, etc.
 
 You will see that I have constraints for everything, such as Primary Keys, Foreign Keys, Not NULL Constraints, NULL Constraints, 
-Sequences, Check Constraints on the Sequences, and even Check Constraints on the boundaries of the Sequence. 
+Sequences, Check Constraints on the Sequences, and even Check Constraints on the boundaries of the Sequence. I do so because
+if I need to change something I wouldn't necessarily drop the whole table, I can just drop the constraint and then ALTER
+the TABLE and change whatever need be.
 
 This project follows proper Database programming principles, so if you wish to have a great understanding of how to properly 
 program Oracle SQL, to check out how I did each of my files while also doing your research.
