@@ -1,0 +1,14 @@
+
+-- All Commands:
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\OracleFormatCommands.sql;
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\Drop_Tables_Output\Drop_Tables_[SQL].sql;
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\Create_Table_Output\Create_Table_[SQL].sql;
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\Insert_Data_Output\Insert_Data_[SQL].sql;
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\Referential_Integrity_Ouput\Referential_Integrity.sql;
+
+@E:\3rd_year_CUC\Spring\Database_Systems_Design\Project_#3_Hospital_Database\DropSequences_[SQL].sql;
